@@ -1,5 +1,0 @@
-$ dig WWW.VISITDEMAK.COM +nostats +nocomments +nocmd
-    > WWW.VISITDEMAK.COM.                     IN      A
-    > WWW.VISITDEMAK.COM.              3592    IN      CNAME   GALERYPUBG.github.io.
-    > GALERYPUBG.github.io.      43192   IN      CNAME    WWW.VISITDEMAK.COM .
-    >  WWW.VISITDEMAK.COM/ .         22      IN      A       192.0.2.1
