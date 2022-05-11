@@ -1,7 +1,7 @@
 # This workflow will build a package using Maven and then publish it to GitHub packages when a release is created
 # For more information see: https://github.com/actions/setup-java/blob/main/docs/advanced-usage.md#apache-maven-with-a-settings-path
 
-name: Maven Package[![Maven Package](https://github.com/visitdemak/visitdemak.com/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/visitdemak/visitdemak.com/actions/workflows/maven-publish.yml)
+name: Maven Package[![Maven Package](https://github.com/visitdemak/ayo ke demak/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/visitdemak/ayo ke Demak/actions/workflows/maven-publish.yml)
 
 on:
   release:
