@@ -1,1 +1,27 @@
 alyendemak.blogspot.com
+id 39466
+
+opcode QUERY
+
+rcode NOERROR
+
+flags QR RD RA
+
+;QUESTION
+
+https://visitdemak.github.io. IN A
+
+;ANSWER
+
+https://visitdemak.github.io. 3600 IN A 185.199.108.153
+
+https://visitdemak.github.io. 3600 IN A 185.199.109.153
+
+https://visitdemak.github.io. 3600 IN A 185.199.110.153
+
+https://visitdemak.github.io. 3600 IN A 185.199.111.153
+
+;AUTHORITY
+
+;ADDITIONAL
+
